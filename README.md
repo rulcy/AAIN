@@ -1,6 +1,6 @@
 # AAIN
 
-这是一个实现Demo。preprocess_ctr.py用于对数据进行预处理，执行先于AAIN.py。
+这是一个实现Demo。preprocess_CTR.py用于对数据进行预处理，执行先于AAIN.py。
 
 模型 - AAIN
 
